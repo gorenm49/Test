@@ -12,7 +12,6 @@ namespace SnakeAndLadder
             game.DiceRoll();
             game.GamePlay();
 
-            //this is for testing purpose only
         }
         
     }
